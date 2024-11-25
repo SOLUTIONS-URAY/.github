@@ -7,7 +7,7 @@
 
 | <img src="https://avatars.githubusercontent.com/u/59563952?v=4" alt="drawing" height="128"/> | <img src="https://i.imgur.com/JhTuD2S.png" alt="drawing" height="128"/>   | <img src="https://i.imgur.com/8aDRoZH.png" alt="drawing" height="128"/> | <img src="https://i.imgur.com/8aDRoZH.png" alt="drawing" height="128"/> | <img src="https://i.imgur.com/8aDRoZH.png" alt="drawing" height="128"/> |
 | :------------: | :---------------: | :---------------: | :---------------: | :---------------: |
-|  MIMBOL | warkkaa | sinkingrose | - | - |
+|  MIMBOL (MIMBOL22) | warkkaa | sinkingrose (Nepaletka) | - | - |
 |  Саша | Саша | Максим | Арина | Соня |
 |  Малыгин А. Е. | Кузьмин А. П. | Ермак М. А. | Ищенко А. Е. | Нагибина С. Г. |
 |  [GitHub](https://github.com/mimbol22) [Telegram](https://t.me/mimbol)  | [Telegram](https://t.me/warkka) [Behance](https://www.behance.net/3Dwarka) | [Telegram](https://t.me/sinkingrose) | - | - |
